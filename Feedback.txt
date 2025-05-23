@@ -1,0 +1,14 @@
+K(30%): 72
+I(30%): 70
+C(10%): 40
+A(30%): 70
+67.6%
+Missing Value in Card class
+Not allowed to use Collections.shuffle
+Missing addCard and reshuffle in Deck class
+Missing secondary constructor in DiscardPile
+Missing removeCard in discardPile
+Missing removeAll in discardPile
+missing toString in discardPile
+
+Player class also missing almost entire implementation.
